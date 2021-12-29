@@ -4,3 +4,5 @@ math-svg.patch
 fix-lack-of-re-ASCII-in-python2.patch
 
 CVE-2021-28957.patch
+CVE-2021-43818-part1.patch
+CVE-2021-43818-part2.patch
